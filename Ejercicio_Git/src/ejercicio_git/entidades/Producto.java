@@ -4,7 +4,7 @@ package ejercicio_git.entidades;
 public class Producto {
 
     private int id_producto;
-    private String nombre;
+    private String nombre;  
     private int precio;
     private String proveedor;
     private int cantidad;
